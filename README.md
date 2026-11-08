@@ -31,7 +31,7 @@ else if (x < 0) printf("Так как значение x = %lf меньше 0, �
 
 ### БЛОК-СХЕМА
 
-<img width="799" height="852" alt="Диаграмма без названия drawio (1) drawio" src="https://github.com/user-attachments/assets/72dacd66-a691-48bb-9a07-24202d2c5455" />
+<img width="692" height="522" alt="Диаграмма без названия drawio (3) drawio (2)" src="https://github.com/user-attachments/assets/dc0315a4-6f3a-44ee-b22e-be2521cfc29b" />
 
 ## **2. Реализация программы**
 ```
